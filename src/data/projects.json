@@ -1,0 +1,26 @@
+[
+    {
+      "title": "VOTING-APP",
+      "imageSrc": "projects/project.png",
+      "description": "This is a backend project built with Node.js, Express, and MongoDB",
+      "skills": ["MONGO DB", "Express", "Node"],
+      "demo": "https://github.com/epicshivam/VOTING-APP",
+      "source": "https://github.com/epicshivam/VOTING-APP"
+    },
+    {
+      "title": "Personal Task Tracer",
+      "imageSrc": "projects/project.png",
+      "description": "This is a Single Page React Application made to use it as a TodoApp",
+      "skills": ["React", "Tailwind"],
+      "demo": "https://personal-task-tracer.netlify.app/",
+      "source": "https://github.com/epicshivam/personal-task-tracer"
+    },
+    {
+      "title": "Movie Search App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a search box to search for your favourite movies.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://epicshivam.github.io/movie-searching-app/",
+      "source": "https://github.com/epicshivam/movie-searching-app"
+    }
+  ]
